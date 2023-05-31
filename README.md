@@ -11,3 +11,6 @@ mining.
   GUI : https://github.com/Zenotta/mining-client/releases/tag/GUI
   
   Docker container : https://github.com/Zenotta/mining-client/releases/tag/docker-container 
+  
+## Contact
+Dev Support - dev@zenotta.com
