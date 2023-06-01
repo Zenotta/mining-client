@@ -1,0 +1,12 @@
+node_name=znp-node-miner
+enable_user_api=false
+image_version=v2
+s0_ip=34.216.8.93
+s0_port=12330
+c0_ip=52.41.17.231
+c0_port=12300
+m0_port=12340
+m0_api_port=3004
+u0_ip=35.90.58.77
+u0_port=12360
+u0_api_port=0
