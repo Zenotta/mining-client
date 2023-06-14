@@ -10,3 +10,4 @@ m0_api_port=3014
 u0_ip=0
 u0_port=12361
 u0_api_port=3010
+allocated_mining_key=some-key-here
