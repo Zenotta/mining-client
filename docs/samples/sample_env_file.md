@@ -14,3 +14,4 @@ sample `.env` file for spinning of miner from docker container.
 | u0_ip | 34.217.18.159 | user ip address. this will be ignored if `enable_user_api` is set to `true` |
 | u0_port | 12360 | user port. use different value if multiple containers are used on same host machine |
 | u0_api_port | 3000 | user api port. this is only applicable if `enable_user_api` is set to `true`. use different value if multiple containers are used on same host machine |
+| allocated_mining_key | some-super-powerful-key | API key that enables access to the mainnet
