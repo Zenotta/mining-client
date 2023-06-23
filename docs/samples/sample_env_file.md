@@ -9,6 +9,7 @@ sample `.env` file for spinning of miner from docker container.
 | s0_port | 12330 | storage port |
 | c0_ip | 35.91.225.142 | compute ip address |
 | c0_port | 12300 | compute port |
+| m0_ip | 127.0.0.1 | miner ip address |
 | m0_port | 12340 | miner port. use different value if multiple containers are used on same host machine |
 | m0_api_port | 3004 | miner api port. use different value if multiple containers are used on same host machine |
 | u0_ip | 34.217.18.159 | user ip address. this will be ignored if `enable_user_api` is set to `true` |
